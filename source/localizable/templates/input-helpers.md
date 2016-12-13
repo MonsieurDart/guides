@@ -91,9 +91,9 @@ Which can be bound or set as described in the previous section.
 
 Will bind the value of the text area to `name` on the current context.
 
-[`{{textarea}}`][1] supports binding and/or setting the following properties:
+[`{{textarea}}`][4] supports binding and/or setting the following properties:
 
-[1]: http://emberjs.com/api/classes/Ember.Templates.helpers.html#method_textarea
+[4]: http://emberjs.com/api/classes/Ember.Templates.helpers.html#method_textarea
 
 * `value`
 * `name`
